@@ -1,9 +1,6 @@
 #include <iostream>
 using namespace std;
-
-
-intmain(){
-
-}
+int main(){
+printf("Hello World!");
 return 0;
-
+}
